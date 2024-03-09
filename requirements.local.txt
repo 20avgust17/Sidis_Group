@@ -1,0 +1,32 @@
+# core
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
+alembic
+python-multipart
+pydantic-settings
+
+#pydantic extensions
+python-dotenv
+
+#for testing
+pytest
+pytest-asyncio
+httpx
+locust
+requests
+coverage
+
+starlette-session
+
+#for jwt tokens
+python-jose
+
+# for password encryption
+passlib[bcrypt]~=1.7.4
+
+authlib
+itsdangerous
+
+pydrive

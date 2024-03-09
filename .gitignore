@@ -1,0 +1,10 @@
+.pytest_cache
+*.idea
+logs
+.coverage
+htmlcov
+archive
+etc/
+venv/
+
+mycrfeds.txt
