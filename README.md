@@ -7,12 +7,13 @@ Set up project.
 6. To view api use url - http://localhost:8000/docs#/ (All endpoinds with docs by swagger).
 
 Possible improvements:
-1. Finish writing the application interface.
-2. Rewrite backgroud tasks to full-fledged Rabbitmq or Celery queues.
-3. Add a separate api for working with folders in Google drive.
-4. Write tests for the endpoints.
-5. Extend swager documentation and add custom error output.
-6. Possibly a departure from the pydrive library
+1. Add dependency injections to endpoints on getting a file or folder.
+2. Finish writing the application interface.
+3. Rewrite backgroud tasks to full-fledged Rabbitmq or Celery queues.
+4. Add a separate api for working with folders in Google drive.
+5. Write tests for the endpoints.
+6. Extend swager documentation and add custom error output.
+7. Possibly a departure from the pydrive library.
 
 
-In case of any problems with the access token, please contact me via hr. Good luck
+In case of any problems with the access token, please contact me via hr. Good luck!
