@@ -1,9 +1,6 @@
 # core
 fastapi
 uvicorn
-sqlalchemy
-psycopg2
-alembic
 python-multipart
 pydantic-settings
 
@@ -18,15 +15,7 @@ locust
 requests
 coverage
 
-starlette-session
 
-#for jwt tokens
-python-jose
-
-# for password encryption
-passlib[bcrypt]~=1.7.4
-
+# pydrive
 authlib
-itsdangerous
-
 pydrive
